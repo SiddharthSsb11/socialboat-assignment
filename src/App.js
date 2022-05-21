@@ -1,10 +1,11 @@
+import { Box } from '@chakra-ui/react';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h2>Task</h2>
-    </div>
+    <Box className="App" bg="purple.600" color="red" width="300">
+      <h1>Task</h1>
+    </Box>
   );
 }
 
