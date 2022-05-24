@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <Box className="App" bg="purple.600" color="red" width="300">
-      <h1>Task</h1>
+      <h1>search header</h1>
     </Box>
   );
 }
